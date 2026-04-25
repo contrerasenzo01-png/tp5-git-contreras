@@ -3,3 +3,7 @@ Este proyecto se trata sobre la introduccion a git, vamos a aprender las funcion
 
 
 Editado desde la interfaz web de github.
+
+Este es un cambio significativo en el archivo de mi compañero
+
+Hola soy nico el compañero de enzo contreras
